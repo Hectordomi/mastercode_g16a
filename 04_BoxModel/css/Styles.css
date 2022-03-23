@@ -1,0 +1,45 @@
+body{
+    background-image: url(../img/goku.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    height: 300px;
+    margin: 0%;
+    padding: 0%;
+    z-index: Wassap;
+}
+    .principal, header{
+        background-color: cornflowerblue;
+        border: 1px black solid;
+        width: 20%;
+        margin: 500px;
+        height: 100px;
+        z-index: Wassap;
+            }
+    main{
+        background-color: blue;
+        border: 1px black solid;
+        width: 20%;
+        margin: 500px;
+        height: 100px;
+        z-index: Wassap;
+    }
+    .principal{
+        background-color: brown;
+        border: 1px black solid;
+        width: 20%;
+        margin: 500px;
+        height: 100px;
+        z-index: Wassap;
+        }
+    #piePagina  {
+        background-color: blueviolet;
+        border: 1px black solid;
+        width: 20%;
+        margin: auto;
+        height: 100px;
+    }
+    h1, p{
+            margin: auto;
+            padding: auto; 
+            text-align:center;
+        }
